@@ -1,0 +1,200 @@
+header {
+    padding: 20px 0;
+    background-color: #ffffff;
+
+    box-sizing: border-box;
+}
+
+.main-div {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo-container {
+    display: inline-block;
+    
+}
+
+.logo-image {
+    width: 180px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    margin-left: 20%;
+    header {
+    padding: 20px 0;
+    background-color: #ffffff;
+
+    box-sizing: border-box;
+}
+
+.main-div {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo-container {
+    display: inline-block;
+    background-color: #ffffff;
+    
+}
+
+.logo-image {
+    width: 180px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    margin-left: 20%;
+    
+    
+
+}
+
+.col-3 {
+    width: 25%;
+    padding: 0 15px;
+}
+
+.col-9 {
+    width: 75%;
+    padding: 0 15px;
+    margin-top: 1% ;
+
+}
+
+ul {
+    display: flex;
+
+    list-style: none;
+    justify-content: flex-end;
+    align-items: center;
+
+
+
+
+}
+
+ul li {
+    padding: 0 60px;
+
+    /* Adjust the padding to decrease space */
+
+
+}
+
+ul li a {
+    color: #5B5B5B;
+    /* Set the desired color */
+    text-decoration: none;
+    /* Remove the underline */
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+ul li a:hover {
+    /* Optional: Add styles for link hover state */
+    text-decoration: underline;
+    /* Underline on hover */
+    color: #0f6534;
+    /* Set the hover color */
+    transform: scale(0.9);
+    font-size: 2em;
+}
+
+.custom-button {
+    background-color: #0f6534;
+    color: #fff;
+    
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font: 16px Arial;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 18px;
+    font-weight: bold;
+    /* Use 50% to make it a perfect circle */
+}
+
+.custom-button:hover {
+    background-color: #1a8e51;
+    transform: scale(1.05);
+    font-size: 1.2em;
+}
+    
+
+}
+
+.col-3 {
+    width: 25%;
+    padding: 0 15px;
+}
+
+.col-9 {
+    width: 75%;
+    padding: 0 15px;
+    margin-top: 1% ;
+
+}
+
+ul {
+    display: flex;
+
+    list-style: none;
+    justify-content: flex-end;
+    align-items: center;
+
+
+
+
+}
+
+ul li {
+    padding: 0 60px;
+
+    /* Adjust the padding to decrease space */
+
+
+}
+
+ul li a {
+    color: #5B5B5B;
+    /* Set the desired color */
+    text-decoration: none;
+    /* Remove the underline */
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+ul li a:hover {
+    /* Optional: Add styles for link hover state */
+    text-decoration: underline;
+    /* Underline on hover */
+    color: #0f6534;
+    /* Set the hover color */
+    transform: scale(0.9);
+    font-size: 2em;
+}
+
+.custom-button {
+    background-color: #0f6534;
+    color: #fff;
+    
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font: 16px Arial;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 18px;
+    font-weight: bold;
+    /* Use 50% to make it a perfect circle */
+}
+
+.custom-button:hover {
+    background-color: #1a8e51;
+    transform: scale(1.05);
+    font-size: 1.2em;
+}
